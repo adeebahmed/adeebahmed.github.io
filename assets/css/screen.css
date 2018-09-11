@@ -163,6 +163,11 @@ form{
   max-width:30em;
 }
 
+section#links {
+    margin-bottom: -2em;
+    margin-top: 1em;
+}
+
 
 /* Layout styles*/
 #introduction{
