@@ -172,7 +172,7 @@ section#links {
 /* Layout styles*/
 #introduction{
   margin-top:-4em;
-  padding-top:5em;
+  padding-top:3.5em;
   border-top:solid .001em;
   border-color: gray;
   font-size:1.25em;
@@ -195,7 +195,7 @@ section#links {
   padding-top: 1.728em;
   padding-bottom: 0.8333333333333334em;
   max-width:14em;
-  min-height: 9em;
+  min-height: 9em
 }
 
 #line{
